@@ -14,5 +14,5 @@ Gene_expression data: https://pubmed.ncbi.nlm.nih.gov/9843569/
  1. Adjacency Threshold - specifies the neighborhood size of the current datapoint.
     Preferably, value between 1 to 5.
     
- 2. Find systematic name of the gene/s of interest from yeastgenome.org 
+ 2. Find systematic name of the gene/s of interest from https://yeastgenome.org/ 
     *Eg.  SWI4 - YER111C* 
