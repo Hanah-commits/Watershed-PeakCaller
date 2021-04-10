@@ -7,7 +7,7 @@ Gene_expression data: https://pubmed.ncbi.nlm.nih.gov/9843569/
 
   Run the program with:
 
-```python3 Watershed_01.py yeast_cell_cycle.txt 3 YER111C YMR043W YLR131C```
+```python3 Watershed_01.py 3 YER111C YMR043W YLR131C```
 
 
 
